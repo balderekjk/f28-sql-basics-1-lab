@@ -22,5 +22,5 @@
 -- SELECT SUM(product_price) FROM orders;
 
 -- #6.
--- SELECT product_price*quantity FROM orders
+-- SELECT (product_price*quantity) FROM orders
 -- WHERE person_id=2;
